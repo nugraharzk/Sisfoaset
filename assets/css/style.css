@@ -1,0 +1,16 @@
+#login-main {
+	background-image: url("../img/bg.png");
+	background-size: cover;
+}
+
+#login-form {
+  margin-top: 150px;
+}
+
+#login-content {
+	padding: 100px;
+}
+
+.option button {
+	display: inline;
+}
